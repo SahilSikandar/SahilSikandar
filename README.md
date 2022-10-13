@@ -1,7 +1,5 @@
 <h1 align="center">Hi there👋, I'm Sahil Sikandar</h1>
 
-![1_Erk4NawQOHkf4wSN7JmB_A](https://user-images.githubusercontent.com/82320801/195648236-72b7b20a-4e57-483b-9d44-f30c8867ac31.jpeg)
-
 <h3 align="center">A passionate Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilsikandar&label=Profile%20views&color=0e75b6&style=flat" alt="sahilsikandar" /> </p>
@@ -34,4 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilsikandar&show_icons=true&locale=en" alt="sahilsikandar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilsikandar&" alt="sahilsikandar" /></p>
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
